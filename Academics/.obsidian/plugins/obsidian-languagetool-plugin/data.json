@@ -4,5 +4,7 @@
   "glassBg": false,
   "shouldAutoCheck": true,
   "pickyMode": false,
-  "staticLanguage": "en"
+  "staticLanguage": "en",
+  "username": "",
+  "apikey": ""
 }

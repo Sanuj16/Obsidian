@@ -1,6 +1,7 @@
 # Introduction
 
 ## 1.1 [[Well-Posed Learning Problems]]
+## 1.2 [[Designing a Learning System]]
 
 
 

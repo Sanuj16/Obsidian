@@ -17,6 +17,8 @@ A robot driving learning problem:
 -  Performance measure $P$: average distance traveled before an error (as judged by human overseer)
 -  Training experience $E$: a sequence of images and steering commands recorded while observing a human driver
 
+Our concern here is not to analyze the meaning of the English word "learning" as it is used in everyday language. Instead, our goal is to define precisely a class of problems that encompasses interesting forms of learning, to explore algorithms that solve such problems, and to understand the fundamental structure of learning problems and processes.
+
 
 ---
 # References
