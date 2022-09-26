@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "9cebc639f9533628",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d4a44399dec142e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Well-Posed Learning Problems.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4818cb5a9fcffec6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a0ecb27299117b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8896c7f458a87a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eff45b60f730d388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#machinelearningnote",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0e411406d369adf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "3b72b63eb50e5c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8510e36a1ca8e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effc3e0706309f16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Well-Posed Learning Problems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "54833e85f8404de7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Well-Posed Learning Problems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83967bf0655fc6d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8313999c9b98f57e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Well-Posed Learning Problems.md"
+              }
+            }
+          },
+          {
+            "id": "9a58e1a6fe37e267",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fce8ecb5592aa40",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8fce8ecb5592aa40",
+  "lastOpenFiles": [
+    "Event and Probability.md",
+    "Definition 1.3.md",
+    "Advanced Algorithms.md",
+    "Axioms of Probability.md",
+    "Definition 1.2.md",
+    "Definition 1.1.md",
+    "Introduction.md",
+    "Lemma 1.1.md",
+    "Lemma 1.2.md",
+    "Well-Posed Learning Problems.md"
+  ]
+}
