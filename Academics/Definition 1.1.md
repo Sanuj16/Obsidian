@@ -5,3 +5,6 @@ of the sample space $\Omega$ and
 3. a probability function $Pr: F → R$ satisfying [[Definition 1.2]].
 An element of is called a simple or elementary event.
 In the randomized algorithm for verifying polynomial identities, the sample space is the set of integers $[1, . . . , 100d]$. Each choice of an integer $r$ in this range is a simple event.
+
+
+Tag : #advancedalgorithms

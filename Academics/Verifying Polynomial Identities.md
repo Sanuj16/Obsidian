@@ -22,3 +22,6 @@ Assume the largest exponent in $F$ and $G$ is d. The algorithm is as follows:
 - If $F(r)\neq G(r)$, then the two polynomials are not equal and if $F(r)=G(r)$ then the two polynomials are equivalent.
 
 This approach (calculating $F(r)$) can be done in $O(d)$ time, which is faster than calculating the canonical form of $F(r)$. But this algorithm can give you a wrong answer. For this to occur, $r$ needs to be a root of the $F(r)- G(r)=0$.  The degree of $F(r)- G(r)=0$ is no more than $d$. This means there are at least $d$ roots in $[1,....100d]$ for which this algorithm proves wrong. Therefore, the chance that the algorithm return a wrong assumption is no more than $1/100$.
+
+
+Tag : #advancedalgorithms

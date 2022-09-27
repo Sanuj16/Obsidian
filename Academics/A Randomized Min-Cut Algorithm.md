@@ -9,3 +9,6 @@ algorithm is also a cut-set of the original graph. On the other hand, not every 
 
 ## [[Theorem 1.8]] : 
 *The algorithm outputs a min-cut set with probability at least $\frac{2}{n(n-1)}$.*
+
+
+Tag : #advancedalgorithms

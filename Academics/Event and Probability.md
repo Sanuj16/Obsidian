@@ -6,7 +6,7 @@ This chapter introduces the notion of randomized algorithms and reviews some bas
 ## 1.5 [[A Randomized Min-Cut Algorithm]]
 
 
-
+Tag : #advancedalgorithms
 
 
 
