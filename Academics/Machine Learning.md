@@ -1,2 +1,6 @@
 # Chapters :
-## Chapter One : [[Introduction]]
+## Chapter One : [[1. Introduction]]
+
+# Books:
+## Machine Learning By Tom M. Mitchell :
+![[ML-Tom Mitchell.pdf]]
