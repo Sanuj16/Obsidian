@@ -18,20 +18,27 @@
       "query": "advancedalgorithms",
       "color": {
         "a": 1,
-        "rgb": 13417216
+        "rgb": 13384960
+      }
+    },
+    {
+      "query": "cloudcomputing",
+      "color": {
+        "a": 1,
+        "rgb": 4713215
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.1,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.944621026894865,
-  "lineSizeMultiplier": 2.53709798758699,
+  "lineSizeMultiplier": 3.03843332706413,
   "collapse-forces": false,
-  "centerStrength": 0.250611246943765,
-  "repelStrength": 6.09554259921008,
+  "centerStrength": 0.635790859507241,
+  "repelStrength": 15.3639270265187,
   "linkStrength": 1,
-  "linkDistance": 216,
-  "scale": 0.7132754626224457,
+  "linkDistance": 227,
+  "scale": 0.3628873693012154,
   "close": true
 }

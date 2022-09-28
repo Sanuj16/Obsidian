@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0809e7d59d14160",
+        "id": "f4e78d4d2b2313b6",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,36 +12,36 @@
         }
       },
       {
-        "id": "bcd64e845764e126",
+        "id": "583f8e041f36bb19",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Aritficial Neural Network.md",
+            "file": "1.5 Performance, Security and Energy Efficiency.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "c8bdf1ee3900f619",
+        "id": "29a98a35880cf809",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.4 Perceptrons.md",
+            "file": "1.5.3 Network Threats and Data Integrity.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "39b0216d47f32bcb",
+        "id": "84e6393021c1dbab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning.md",
+            "file": "Cloud Computing.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.4 Perceptrons.md",
+                "file": "1.5.3 Network Threats and Data Integrity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.4 Perceptrons.md",
+                "file": "1.5.3 Network Threats and Data Integrity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.4 Perceptrons.md"
+                "file": "1.5.3 Network Threats and Data Integrity.md"
               }
             }
           },
@@ -178,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8bdf1ee3900f619",
+  "active": "29a98a35880cf809",
   "lastOpenFiles": [
+    "Cloud Computing.md",
+    "1.5.3 Network Threats and Data Integrity.md",
+    "1.5 Performance, Security and Energy Efficiency.md",
+    "1.5.2 Fault Tolerance and System Availability.md",
+    "1.5.1 Performance Metrics and Scalability Analysis.md",
     "Machine Learning.md",
-    "4.4 Perceptrons.md",
+    "Templates/Default.md",
+    "4-1.md",
     "4. Aritficial Neural Network.md",
-    "1.2.5 The Final Design.md",
-    "Axioms of Probability.md",
-    "Verifying Polynomial Identities.md",
-    "Definition 1.1.md",
-    "Definition 1.2.md",
-    "Lemma 1.1.md",
-    "Lemma 1.2.md"
+    "4.4 Perceptrons.md"
   ]
 }

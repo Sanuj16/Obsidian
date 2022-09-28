@@ -5,3 +5,7 @@
 # Books:
 ## Machine Learning By Tom M. Mitchell :
 ![[ML-Tom Mitchell.pdf]]
+
+
+
+Tag: #machinelearning 

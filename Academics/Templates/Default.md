@@ -12,4 +12,4 @@
 Date: {{Date:DD-MM-YYYY}}
 Time: {{Time:HH:mm}}
 Status: #note
-Tags: #machinelearning
+Tags: #cloudcomputing

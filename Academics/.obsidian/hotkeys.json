@@ -22,5 +22,13 @@
       ],
       "key": "D"
     }
+  ],
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
