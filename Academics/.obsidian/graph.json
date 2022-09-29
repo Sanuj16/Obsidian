@@ -11,27 +11,34 @@
       "query": "machinelearning",
       "color": {
         "a": 1,
-        "rgb": 5832959
+        "rgb": 5700947
       }
     },
     {
       "query": "advancedalgorithms",
       "color": {
         "a": 1,
-        "rgb": 13384960
+        "rgb": 10096120
       }
     },
     {
       "query": "cloudcomputing",
       "color": {
         "a": 1,
-        "rgb": 4713215
+        "rgb": 47103
+      }
+    },
+    {
+      "query": "cryptoandnetsec",
+      "color": {
+        "a": 1,
+        "rgb": 13041664
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 0.944621026894865,
   "lineSizeMultiplier": 3.03843332706413,
   "collapse-forces": false,
@@ -39,6 +46,6 @@
   "repelStrength": 15.3639270265187,
   "linkStrength": 1,
   "linkDistance": 227,
-  "scale": 0.7132754626224497,
+  "scale": 0.6055773058103922,
   "close": true
 }

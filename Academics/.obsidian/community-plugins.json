@@ -6,5 +6,8 @@
   "obsidian-languagetool-plugin",
   "obsidian-admonition",
   "sliding-panes-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
