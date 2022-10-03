@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "translucency": true,
-  "baseFontSize": 17
+  "baseFontSize": 19,
+  "theme": "obsidian"
 }

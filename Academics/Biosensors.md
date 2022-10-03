@@ -1,8 +1,11 @@
 # Biosensors
 
+[[Optical Transducers]]
 
 
+$\frac{F}{A}=E*\frac{\Delta{t}}{t}$
 
+$V = Egt$
 
 ---
 # References
