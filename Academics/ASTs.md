@@ -1,6 +1,5 @@
-# {{title}}
-
-
+# ASTs
+ 
 
 
 
@@ -9,7 +8,7 @@
 
 
 ---
-Date: {{Date:DD-MM-YYYY}}
-Time: {{Time:HH:mm}}
+Date: 03-10-2022
+Time: 20:29
 Status: #note
 Tags: #finalyearproject 

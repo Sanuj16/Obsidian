@@ -9,5 +9,7 @@
   "obsidian-git",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-auto-link-title",
+  "templater-obsidian"
 ]
