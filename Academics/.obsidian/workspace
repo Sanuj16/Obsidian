@@ -22,6 +22,30 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "ee257eb39ada0b51",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SolSEE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b2cf4d93b0c7f7c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ASTs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -87,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ASTs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ASTs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ASTs.md"
+              }
             }
           },
           {
@@ -159,17 +187,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "097de76e17c98fc2",
+  "active": "b2cf4d93b0c7f7c6",
   "lastOpenFiles": [
+    "SolSEE.md",
+    "4-1.md",
     "Advanced Algorithms.md",
     "Untitled.md",
     "Axioms of Probability.md",
     "Definition 1.1.md",
-    "4-1.md",
     "practice.md",
     "ASTs.md",
     "Definition 1.2.md",
-    "1.2.1 Choosing the Training Experience.md",
-    "1.5.1 Performance Metrics and Scalability Analysis.md"
+    "1.2.1 Choosing the Training Experience.md"
   ]
 }

@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13041664
       }
+    },
+    {
+      "query": "finalyearproject",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -43,9 +50,9 @@
   "lineSizeMultiplier": 3.03843332706413,
   "collapse-forces": false,
   "centerStrength": 0.51685393258427,
-  "repelStrength": 10.6741573033708,
+  "repelStrength": 11.7977528089888,
   "linkStrength": 0.735955056179775,
   "linkDistance": 162,
-  "scale": 0.43194343295556753,
+  "scale": 0.3080946519681089,
   "close": true
 }
