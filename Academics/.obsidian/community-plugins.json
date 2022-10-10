@@ -8,8 +8,10 @@
   "sliding-panes-obsidian",
   "obsidian-git",
   "calendar",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-auto-link-title",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-kanban",
+  "obsidian-codemirror-options"
 ]

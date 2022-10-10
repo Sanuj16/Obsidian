@@ -1,4 +1,6 @@
 {
   "blue-topaz-theme@@transparent-setting-panel": false,
-  "things-style@@macOS-translucent": false
+  "things-style@@macOS-translucent": false,
+  "CodeMirror Options@@cm5-minimal-embeds": true,
+  "CodeMirror Options@@cm-theme-selection": "cm-theme-dracula"
 }
